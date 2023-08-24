@@ -1,0 +1,11 @@
+Model Information:
+* title:	Columbian Press No 3180
+* source:	https://sketchfab.com/3d-models/columbian-press-no-3180-b6bd7b136b1e46dda66c6068d6dbb927
+* author:	arboo (https://sketchfab.com/arboo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Columbian Press No 3180" (https://sketchfab.com/3d-models/columbian-press-no-3180-b6bd7b136b1e46dda66c6068d6dbb927) by arboo (https://sketchfab.com/arboo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
